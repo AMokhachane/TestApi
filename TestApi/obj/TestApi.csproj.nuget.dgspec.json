@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noma\\Downloads\\TestApi\\TestApi.csproj": {}
+    "C:\\Users\\Noma\\Downloads\\Survey\\TestApi\\TestApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noma\\Downloads\\TestApi\\TestApi.csproj": {
+    "C:\\Users\\Noma\\Downloads\\Survey\\TestApi\\TestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noma\\Downloads\\TestApi\\TestApi.csproj",
+        "projectUniqueName": "C:\\Users\\Noma\\Downloads\\Survey\\TestApi\\TestApi.csproj",
         "projectName": "TestApi",
-        "projectPath": "C:\\Users\\Noma\\Downloads\\TestApi\\TestApi.csproj",
+        "projectPath": "C:\\Users\\Noma\\Downloads\\Survey\\TestApi\\TestApi.csproj",
         "packagesPath": "C:\\Users\\Noma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noma\\Downloads\\TestApi\\obj\\",
+        "outputPath": "C:\\Users\\Noma\\Downloads\\Survey\\TestApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Noma\\AppData\\Roaming\\NuGet\\NuGet.Config"
